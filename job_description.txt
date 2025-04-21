@@ -1,0 +1,19 @@
+Job Title: Backend Developer (Python)
+
+We are looking for a Backend Developer with strong proficiency in Python and experience in building APIs and working with databases.
+
+Responsibilities:
+- Develop and maintain backend services and REST APIs
+- Collaborate with frontend developers and product managers
+- Optimize applications for performance and scalability
+- Write clean, maintainable, and well-documented code
+
+Requirements:
+- Proficiency in Python
+- Experience with frameworks like Flask or FastAPI
+- Familiarity with relational databases (PostgreSQL, MySQL)
+- Good understanding of software development practices
+- Experience with Docker and version control (Git) is a plus
+
+Nice to have:
+- Exposure to CI/CD pipelines and cloud platforms

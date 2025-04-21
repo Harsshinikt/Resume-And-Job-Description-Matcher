@@ -1,0 +1,22 @@
+John Doe
+Email: johndoe@email.com | Phone: (123) 456-7890
+
+Summary:
+Passionate software engineer with 2+ years of experience in backend development, Python scripting, and API integration. Strong understanding of software development lifecycle and agile methodologies.
+
+Skills:
+- Programming: Python, JavaScript, SQL
+- Tools: Git, Docker, Postman
+- Databases: MySQL, PostgreSQL
+- Frameworks: Flask, FastAPI
+- Others: REST APIs, Agile
+
+Experience:
+Software Engineer, TechNova Inc. — Jan 2022 to Present
+- Developed RESTful APIs using Flask and FastAPI
+- Integrated third-party APIs to enhance functionality
+- Wrote automated unit tests and improved test coverage by 30%
+- Participated in code reviews and sprint planning
+
+Education:
+B.Tech in Computer Science — XYZ University
